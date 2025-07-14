@@ -1,0 +1,1 @@
+"C:\Program Files (x86)\Inno Setup 6\ISCC.exe" "C:\Users\esteb\USB Insight Hub\trayIcone\HubIcone\USBInsightHub.iss"
