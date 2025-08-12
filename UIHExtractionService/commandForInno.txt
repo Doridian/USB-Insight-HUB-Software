@@ -1,0 +1,6 @@
+Publish using
+dotnet publish -c Release -r win-x64 --self-contained true -v:n
+
+Run Inno
+"C:\Program Files (x86)\Inno Setup 6\ISCC.exe" "C:\Users\jdsan\source\repos\UIHExtractionService\USBInsightHub.iss"
+
