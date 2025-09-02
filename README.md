@@ -20,7 +20,7 @@ This program does not monitor or sniff the USB communication with any USB device
 
 ### Service - Installation Software
 
-Installer for the **UIH Enumeration Extraction Agent** that runs automatically after windows start and has a try icon to indicate the state and allows to pause and restart the service.
+[Installer](https://github.com/Aeriosolutions/USB-Insight-HUB/releases/latest) for the **UIH Enumeration Extraction Agent** that runs automatically after windows start and has a try icon to indicate the state and allows to pause and restart the service.
 
 
 ## UIH-ESP32S3 - Firmware
